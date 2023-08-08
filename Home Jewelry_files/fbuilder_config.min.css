@@ -1,0 +1,299 @@
+
+				@import url('//fonts.googleapis.com/css?family=Poppins:300,400,500,600,700&display=swap');
+				
+					@import url('//fonts.googleapis.com/css?family=Poppins&display=swap');
+					
+					@import url('//fonts.googleapis.com/css?family=Poppins&display=swap');
+					
+					@import url('//fonts.googleapis.com/css?family=Poppins&display=swap');
+					
+					@import url('//fonts.googleapis.com/css?family=Poppins&display=swap');
+					
+					@import url('//fonts.googleapis.com/css?family=Poppins&display=swap');
+					
+					@import url('//fonts.googleapis.com/css?family=Poppins&display=swap');
+					
+					@import url('//fonts.googleapis.com/css?family=Poppins&display=swap');
+					
+					@import url('//fonts.googleapis.com/css?family=Poppins&display=swap');
+					
+					@import url('//fonts.googleapis.com/css?family=Poppins&display=swap');
+					
+					@import url('//fonts.googleapis.com/css?family=Libre+Baskerville:300,400,400i,600&display=swap');
+					html, body {font-family:'Poppins', 'Open Sans', 'Helvetica Neue';}h1{font-family:'Poppins', 'Open Sans', 'Helvetica Neue';}h2{font-family:'Poppins', 'Open Sans', 'Helvetica Neue';}h3{font-family:'Poppins', 'Open Sans', 'Helvetica Neue';}h4{font-family:'Poppins', 'Open Sans', 'Helvetica Neue';}h5{font-family:'Poppins', 'Open Sans', 'Helvetica Neue';}h6{font-family:'Poppins', 'Open Sans', 'Helvetica Neue';}.price-box .price{font-family:'Poppins', 'Open Sans', 'Helvetica Neue';}#mainMenu a.level0, nav.navigation a.level-top{font-family:'Poppins', 'Open Sans', 'Helvetica Neue';}button.action{font-family:'Poppins', 'Open Sans', 'Helvetica Neue';}blockquote,.sub-title, .content-heading .block-note{font-family:'Libre Baskerville', 'Open Sans', 'Helvetica Neue';font-weight:400;}body{}.page-header {}footer.page-footer, .page-footer .middle-footer, .page-footer .bottom-footer{}.mgs-carousel-single .owl-nav div img{width:40px}.mgs-carousel-single .owl-nav div span{width:40px}.mgs-carousel-single .owl-nav div span, .mgs-carousel-single .owl-nav div span em{height:80px; line-height:80px}.mgs-carousel-single.nav-position-middle-outside .owl-nav div span, .mgs-carousel-single.nav-position-middle-inside .owl-nav div span{margin-top:-40px}.mgs-carousel-single .owl-nav div span em{font-size:80px;}.mgs-carousel-multiple .owl-nav div img{width:40px}.mgs-carousel-multiple .owl-nav div span{width:40px}.mgs-carousel-multiple .owl-nav div span, .mgs-carousel-multiple .owl-nav div span em{height:40px; line-height:40px}.mgs-carousel-multiple.nav-position-middle-outside .owl-nav div span, .mgs-carousel-multiple.nav-position-middle-inside .owl-nav div span{margin-top:-20px}.mgs-carousel-multiple .owl-nav div span em{font-size:30px;}.cms-index-index.cms-page2 #maincontent, .cms-page-view.cms-page2 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page2 #maincontent .page.messages, .cms-index-index.cms-page2 #maincontent .page.messages, .cms-index-index.cms-page2 #maincontent .section-builder , .cms-page-view.cms-page2 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page2 #maincontent .section-builder-full , .cms-page-view.cms-page2 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page5 #maincontent, .cms-page-view.cms-page5 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page5 #maincontent .page.messages, .cms-index-index.cms-page5 #maincontent .page.messages, .cms-index-index.cms-page5 #maincontent .section-builder , .cms-page-view.cms-page5 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page5 #maincontent .section-builder-full , .cms-page-view.cms-page5 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page6 #maincontent, .cms-page-view.cms-page6 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page6 #maincontent .page.messages, .cms-index-index.cms-page6 #maincontent .page.messages, .cms-index-index.cms-page6 #maincontent .section-builder , .cms-page-view.cms-page6 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page6 #maincontent .section-builder-full , .cms-page-view.cms-page6 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page7 #maincontent, .cms-page-view.cms-page7 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page7 #maincontent .page.messages, .cms-index-index.cms-page7 #maincontent .page.messages, .cms-index-index.cms-page7 #maincontent .section-builder , .cms-page-view.cms-page7 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page7 #maincontent .section-builder-full , .cms-page-view.cms-page7 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page8 #maincontent, .cms-page-view.cms-page8 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page8 #maincontent .page.messages, .cms-index-index.cms-page8 #maincontent .page.messages, .cms-index-index.cms-page8 #maincontent .section-builder , .cms-page-view.cms-page8 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page8 #maincontent .section-builder-full , .cms-page-view.cms-page8 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page9 #maincontent, .cms-page-view.cms-page9 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page9 #maincontent .page.messages, .cms-index-index.cms-page9 #maincontent .page.messages, .cms-index-index.cms-page9 #maincontent .section-builder , .cms-page-view.cms-page9 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page9 #maincontent .section-builder-full , .cms-page-view.cms-page9 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page10 #maincontent, .cms-page-view.cms-page10 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page10 #maincontent .page.messages, .cms-index-index.cms-page10 #maincontent .page.messages, .cms-index-index.cms-page10 #maincontent .section-builder , .cms-page-view.cms-page10 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page10 #maincontent .section-builder-full , .cms-page-view.cms-page10 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page11 #maincontent, .cms-page-view.cms-page11 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page11 #maincontent .page.messages, .cms-index-index.cms-page11 #maincontent .page.messages, .cms-index-index.cms-page11 #maincontent .section-builder , .cms-page-view.cms-page11 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page11 #maincontent .section-builder-full , .cms-page-view.cms-page11 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page12 #maincontent, .cms-page-view.cms-page12 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page12 #maincontent .page.messages, .cms-index-index.cms-page12 #maincontent .page.messages, .cms-index-index.cms-page12 #maincontent .section-builder , .cms-page-view.cms-page12 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page12 #maincontent .section-builder-full , .cms-page-view.cms-page12 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page17 #maincontent, .cms-page-view.cms-page17 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page17 #maincontent .page.messages, .cms-index-index.cms-page17 #maincontent .page.messages, .cms-index-index.cms-page17 #maincontent .section-builder , .cms-page-view.cms-page17 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page17 #maincontent .section-builder-full , .cms-page-view.cms-page17 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page18 #maincontent, .cms-page-view.cms-page18 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page18 #maincontent .page.messages, .cms-index-index.cms-page18 #maincontent .page.messages, .cms-index-index.cms-page18 #maincontent .section-builder , .cms-page-view.cms-page18 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page18 #maincontent .section-builder-full , .cms-page-view.cms-page18 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page20 #maincontent, .cms-page-view.cms-page20 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page20 #maincontent .page.messages, .cms-index-index.cms-page20 #maincontent .page.messages, .cms-index-index.cms-page20 #maincontent .section-builder , .cms-page-view.cms-page20 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page20 #maincontent .section-builder-full , .cms-page-view.cms-page20 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page21 #maincontent, .cms-page-view.cms-page21 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page21 #maincontent .page.messages, .cms-index-index.cms-page21 #maincontent .page.messages, .cms-index-index.cms-page21 #maincontent .section-builder , .cms-page-view.cms-page21 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page21 #maincontent .section-builder-full , .cms-page-view.cms-page21 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page22 #maincontent, .cms-page-view.cms-page22 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page22 #maincontent .page.messages, .cms-index-index.cms-page22 #maincontent .page.messages, .cms-index-index.cms-page22 #maincontent .section-builder , .cms-page-view.cms-page22 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page22 #maincontent .section-builder-full , .cms-page-view.cms-page22 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page23 #maincontent, .cms-page-view.cms-page23 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page23 #maincontent .page.messages, .cms-index-index.cms-page23 #maincontent .page.messages, .cms-index-index.cms-page23 #maincontent .section-builder , .cms-page-view.cms-page23 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page23 #maincontent .section-builder-full , .cms-page-view.cms-page23 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page24 #maincontent, .cms-page-view.cms-page24 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page24 #maincontent .page.messages, .cms-index-index.cms-page24 #maincontent .page.messages, .cms-index-index.cms-page24 #maincontent .section-builder , .cms-page-view.cms-page24 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page24 #maincontent .section-builder-full , .cms-page-view.cms-page24 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page25 #maincontent, .cms-page-view.cms-page25 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page25 #maincontent .page.messages, .cms-index-index.cms-page25 #maincontent .page.messages, .cms-index-index.cms-page25 #maincontent .section-builder , .cms-page-view.cms-page25 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page25 #maincontent .section-builder-full , .cms-page-view.cms-page25 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page26 #maincontent, .cms-page-view.cms-page26 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page26 #maincontent .page.messages, .cms-index-index.cms-page26 #maincontent .page.messages, .cms-index-index.cms-page26 #maincontent .section-builder , .cms-page-view.cms-page26 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page26 #maincontent .section-builder-full , .cms-page-view.cms-page26 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page27 #maincontent, .cms-page-view.cms-page27 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page27 #maincontent .page.messages, .cms-index-index.cms-page27 #maincontent .page.messages, .cms-index-index.cms-page27 #maincontent .section-builder , .cms-page-view.cms-page27 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page27 #maincontent .section-builder-full , .cms-page-view.cms-page27 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page28 #maincontent, .cms-page-view.cms-page28 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page28 #maincontent .page.messages, .cms-index-index.cms-page28 #maincontent .page.messages, .cms-index-index.cms-page28 #maincontent .section-builder , .cms-page-view.cms-page28 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page28 #maincontent .section-builder-full , .cms-page-view.cms-page28 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page29 #maincontent, .cms-page-view.cms-page29 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page29 #maincontent .page.messages, .cms-index-index.cms-page29 #maincontent .page.messages, .cms-index-index.cms-page29 #maincontent .section-builder , .cms-page-view.cms-page29 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page29 #maincontent .section-builder-full , .cms-page-view.cms-page29 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page30 #maincontent, .cms-page-view.cms-page30 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page30 #maincontent .page.messages, .cms-index-index.cms-page30 #maincontent .page.messages, .cms-index-index.cms-page30 #maincontent .section-builder , .cms-page-view.cms-page30 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page30 #maincontent .section-builder-full , .cms-page-view.cms-page30 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page31 #maincontent, .cms-page-view.cms-page31 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page31 #maincontent .page.messages, .cms-index-index.cms-page31 #maincontent .page.messages, .cms-index-index.cms-page31 #maincontent .section-builder , .cms-page-view.cms-page31 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page31 #maincontent .section-builder-full , .cms-page-view.cms-page31 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page32 #maincontent, .cms-page-view.cms-page32 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page32 #maincontent .page.messages, .cms-index-index.cms-page32 #maincontent .page.messages, .cms-index-index.cms-page32 #maincontent .section-builder , .cms-page-view.cms-page32 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page32 #maincontent .section-builder-full , .cms-page-view.cms-page32 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page33 #maincontent, .cms-page-view.cms-page33 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page33 #maincontent .page.messages, .cms-index-index.cms-page33 #maincontent .page.messages, .cms-index-index.cms-page33 #maincontent .section-builder , .cms-page-view.cms-page33 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page33 #maincontent .section-builder-full , .cms-page-view.cms-page33 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page34 #maincontent, .cms-page-view.cms-page34 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page34 #maincontent .page.messages, .cms-index-index.cms-page34 #maincontent .page.messages, .cms-index-index.cms-page34 #maincontent .section-builder , .cms-page-view.cms-page34 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page34 #maincontent .section-builder-full , .cms-page-view.cms-page34 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page35 #maincontent, .cms-page-view.cms-page35 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page35 #maincontent .page.messages, .cms-index-index.cms-page35 #maincontent .page.messages, .cms-index-index.cms-page35 #maincontent .section-builder , .cms-page-view.cms-page35 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page35 #maincontent .section-builder-full , .cms-page-view.cms-page35 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page36 #maincontent, .cms-page-view.cms-page36 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page36 #maincontent .page.messages, .cms-index-index.cms-page36 #maincontent .page.messages, .cms-index-index.cms-page36 #maincontent .section-builder , .cms-page-view.cms-page36 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page36 #maincontent .section-builder-full , .cms-page-view.cms-page36 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page37 #maincontent, .cms-page-view.cms-page37 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page37 #maincontent .page.messages, .cms-index-index.cms-page37 #maincontent .page.messages, .cms-index-index.cms-page37 #maincontent .section-builder , .cms-page-view.cms-page37 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page37 #maincontent .section-builder-full , .cms-page-view.cms-page37 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page38 #maincontent, .cms-page-view.cms-page38 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page38 #maincontent .page.messages, .cms-index-index.cms-page38 #maincontent .page.messages, .cms-index-index.cms-page38 #maincontent .section-builder , .cms-page-view.cms-page38 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page38 #maincontent .section-builder-full , .cms-page-view.cms-page38 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page39 #maincontent, .cms-page-view.cms-page39 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page39 #maincontent .page.messages, .cms-index-index.cms-page39 #maincontent .page.messages, .cms-index-index.cms-page39 #maincontent .section-builder , .cms-page-view.cms-page39 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page39 #maincontent .section-builder-full , .cms-page-view.cms-page39 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page40 #maincontent, .cms-page-view.cms-page40 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page40 #maincontent .page.messages, .cms-index-index.cms-page40 #maincontent .page.messages, .cms-index-index.cms-page40 #maincontent .section-builder , .cms-page-view.cms-page40 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page40 #maincontent .section-builder-full , .cms-page-view.cms-page40 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page41 #maincontent, .cms-page-view.cms-page41 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page41 #maincontent .page.messages, .cms-index-index.cms-page41 #maincontent .page.messages, .cms-index-index.cms-page41 #maincontent .section-builder , .cms-page-view.cms-page41 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page41 #maincontent .section-builder-full , .cms-page-view.cms-page41 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page42 #maincontent, .cms-page-view.cms-page42 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page42 #maincontent .page.messages, .cms-index-index.cms-page42 #maincontent .page.messages, .cms-index-index.cms-page42 #maincontent .section-builder , .cms-page-view.cms-page42 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page42 #maincontent .section-builder-full , .cms-page-view.cms-page42 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page43 #maincontent, .cms-page-view.cms-page43 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page43 #maincontent .page.messages, .cms-index-index.cms-page43 #maincontent .page.messages, .cms-index-index.cms-page43 #maincontent .section-builder , .cms-page-view.cms-page43 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page43 #maincontent .section-builder-full , .cms-page-view.cms-page43 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page44 #maincontent, .cms-page-view.cms-page44 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page44 #maincontent .page.messages, .cms-index-index.cms-page44 #maincontent .page.messages, .cms-index-index.cms-page44 #maincontent .section-builder , .cms-page-view.cms-page44 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page44 #maincontent .section-builder-full , .cms-page-view.cms-page44 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page45 #maincontent, .cms-page-view.cms-page45 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page45 #maincontent .page.messages, .cms-index-index.cms-page45 #maincontent .page.messages, .cms-index-index.cms-page45 #maincontent .section-builder , .cms-page-view.cms-page45 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page45 #maincontent .section-builder-full , .cms-page-view.cms-page45 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page46 #maincontent, .cms-page-view.cms-page46 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page46 #maincontent .page.messages, .cms-index-index.cms-page46 #maincontent .page.messages, .cms-index-index.cms-page46 #maincontent .section-builder , .cms-page-view.cms-page46 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page46 #maincontent .section-builder-full , .cms-page-view.cms-page46 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.cms-index-index.cms-page47 #maincontent, .cms-page-view.cms-page47 #maincontent{max-width:inherit; padding-left:inherit; padding-right:inherit; overflow:hidden}.cms-page-view.cms-page47 #maincontent .page.messages, .cms-index-index.cms-page47 #maincontent .page.messages, .cms-index-index.cms-page47 #maincontent .section-builder , .cms-page-view.cms-page47 #maincontent .section-builder{max-width:1240px; margin:auto; box-sizing: border-box; padding-left:15px; padding-right:15px}.cms-index-index.cms-page47 #maincontent .section-builder-full , .cms-page-view.cms-page47 #maincontent .section-builder-full {max-width:inherit !important; padding-left:15px; padding-right:15px}.slider_mgs_carousel .item:after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    background-color: #000;
+    opacity: 0.4;
+    transition: all 300ms;
+}
+
+blockquote, .sub-title, .content-heading .block-note {
+ font-weight: 600;
+}
+
+.page-footer .footer-container.footer2 .middle-footer a:hover {
+ color: #56cfe1;
+}
+
+.mgs-product-tab .tab-style3.data.items .item.title .switch {
+ border-color: transparent;
+}
+
+.top-wishlist .wishlist-icon:hover:before, .header-area .table-icon-menu .theme-header-icon:hover, .header-area .table-icon-menu .minicart-wrapper .action.showcart:hover:before, .header-area .social-link li a:hover,
+.header-area .switcher .action.toggle strong:hover {
+ color: #56cfe1;
+}
+
+.footer.content .block.newsletter .action.subscribe:hover {
+ border-color: #56cfe1;
+ background-color: #56cfe1;
+}
+
+.slider_mgs_carousel .item:hover:after {
+    background-color: #56cfe1;
+    opacity: 0.2;
+}
+
+.slide-text {
+ z-index: 99;
+}
+
+.sub-title {
+ font-weight: 600;
+}
+
+.slide-text h2 {
+    font-weight: 700;
+    font-size: 50px;
+    letter-spacing: 1px;
+    margin: 10px 0;
+}
+
+.slide-text p {
+ margin-bottom: 20px;
+}
+
+.service-boxed {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: #56cfe1;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.service-boxed .icon-service {
+    width: 25%;
+    padding: 47px 30px 43px;
+}
+
+.service-boxed .icon-service .icon {
+ color: white;
+}
+
+.service-boxed .icon-service .icon em {
+ font-weight: 700;
+}
+
+.header_absolute.cms-index-index .megamenu-homelink img {
+ filter: brightness(7);
+ min-width: 90px;
+}
+
+.jw-product, .jw-product-tabs {
+ padding-top: 50px;
+ padding-bottom: 50px;
+}
+
+.jw-blog {
+ padding-top: 80px;
+ padding-bottom: 50px;
+}
+
+.jw-testi {
+ padding-top: 100px;
+ padding-bottom: 100px;
+}
+
+.jw-banner2 h2, .jw-banner2 h5 {
+ font-style: italic;
+}
+
+.jw-banner2 h2 {
+ font-size: 50px;
+ margin-bottom: 5px;
+}
+
+.jw-testi .content-heading h3.title, .jw-testi .content-heading .block-note, 
+.mgs-testimonial .testimonial-content .content blockquote::before, 
+.testimonial-list-block .mgs-testimonial .testimonial-content blockquote,
+.testimonial-list-block .author-info .name, .testimonial-list-block .author-info .infomation {
+ color: white;
+}
+
+.jw-testi .content-heading h3.title:before, .jw-testi .content-heading h3.title::after {
+ background: white;
+}
+
+.testimonial-list-block .mgs-testimonial .testimonial-content blockquote {
+ font-weight: 500;
+}
+
+.mgs-testimonial .testimonial-content .author-thumbnail {
+ margin-bottom: 50px;
+}
+
+.jw-testi .mgs-owl-carousel.mgs-carousel-multiple .owl-dots {
+ bottom: -50px;
+}
+
+.jw-testi .mgs-owl-carousel.owl-carousel .owl-dots .owl-dot:hover span, .jw-testi .mgs-owl-carousel.owl-carousel .owl-dots .owl-dot.active span {
+ background: #56cfe1;
+}
+
+.jw-testi .mgs-owl-carousel.owl-carousel .owl-dots .owl-dot span {
+ background: white;
+}
+
+.instagram-block .instagram-item {
+ margin: 0 2px;
+}
+
+@media (min-width: 1300px) {
+ .service-boxed {
+    margin-left: -45px;
+    margin-right: -45px;
+    width: calc(100% - -90px);
+ }
+}
+
+@media (min-width: 1200px) {
+.header-area .minicart-wrapper .action.showcart > .counter.qty {
+ background-color: #fff;
+ color: #222;
+}
+
+ .service-boxed {
+    transform: translateY(-50%);
+    z-index: 9;
+    position: relative;
+    margin-top: 0;
+    margin-bottom: 0;
+
+ }
+
+.header_absolute.cms-index-index .header-area .table-icon-menu .block-search .block-title, 
+.header_absolute.cms-index-index .header-area .table-icon-menu .minicart-wrapper .action.showcart, 
+.header_absolute.cms-index-index .header-area .table-icon-menu .theme-header-icon, 
+.header_absolute.cms-index-index .header-area .table-icon-menu .minicart-wrapper .action.showcart:before, 
+.header_absolute.cms-index-index .top-wishlist .wishlist-icon:before, 
+.header_absolute.cms-index-index .page-header .search-form .actions-search .action-search {
+ color: white;
+}
+
+.header_absolute.cms-index-index .header-area .table-icon-menu .block-search:hover .block-title, 
+.header_absolute.cms-index-index .header-area .table-icon-menu .minicart-wrapper .action.showcart:hover, 
+.header_absolute.cms-index-index .header-area .table-icon-menu .theme-header-icon:hover, 
+.header_absolute.cms-index-index .header-area .table-icon-menu .minicart-wrapper .action.showcart:hover:before, 
+.header_absolute.cms-index-index .top-wishlist .wishlist-icon:hover:before, 
+.header_absolute.cms-index-index .page-header .search-form .actions-search .action-search:hover {
+  color: #56cfe1;
+}
+
+.header_absolute.cms-index-index .header-area .switcher .action.toggle,
+.header_absolute.cms-index-index .navigation .nav-main-menu a,
+.header_absolute.cms-index-index .navigation .nav-main-menu .link-colour-red a {
+ color: white;
+}
+
+.header_absolute.cms-index-index .header-area .switcher .action.toggle:hover,
+.header_absolute.cms-index-index .navigation .nav-main-menu a:hover,
+.header_absolute.cms-index-index .navigation .nav-main-menu .link-colour-red a:hover {
+ color: #56cfe1;
+}
+
+body.header_absolute.cms-index-index header.page-header {
+ background: 0 0;
+ border-color: rgba(255,255,255,.4);
+}
+
+}
+
+@media (min-width: 1200px) and (max-width: 1440px) {
+ header.page-header .header-area.header9 .navigation .nav-main-menu > li > a {
+ padding-left: 15px;
+ padding-right: 15px;
+}
+}
+
+@media (max-width: 1199px) {
+.header-area .table-icon-menu .theme-header-icon {
+ line-height: 0.8;
+}
+.service-boxed {
+ padding: 15px 0;
+}
+ .service-boxed .icon-service {
+  width: 50%;
+ padding: 15px;
+ }
+
+header.page-header button.action.nav-tg:before, header.page-header .cart.table-wrapper .actions-toolbar > .action.action.nav-tg:before, header.page-header .action-gift.action.nav-tg:before {
+ pointer-events: none;
+}
+
+.nav-before-open header.page-header button.action.nav-tg:before, .nav-before-open header.page-header .cart.table-wrapper .actions-toolbar > .action.action.nav-tg:before, .nav-before-open header.page-header .action-gift.action.nav-tg:before {
+  pointer-events: all;
+}
+
+.mgs-products.products-grid .mgs-owl-carousel .product-item, .mgs-product.products-grid .mgs-owl-carousel .product-item {
+ padding-left: 15px;
+ padding-right: 15px;
+}
+
+.mgs-product.products-grid .product-item-info:hover .product-top .tocart.btn-cart, .mgs-products.products-grid .product-item-info:hover .product-top .tocart.btn-cart, .mgs-attribute-products .product-item-info:hover .product-top .tocart.btn-cart {
+ transform: unset;
+}
+
+.jw-banner2 h2, .slide-text h2 {
+ font-size: 30px;
+}
+
+.jw-banner2 img {
+ min-height: 250px;
+}
+
+.jw-testi {
+ padding-top: 50px;
+ padding-bottom: 50px;
+}
+}
+
+@media (max-width: 767px) {
+ .section-builder .mgs-product-tab .mgs-tab.data.items > .item.title.active > .switch {
+ border: 1px solid #6e6e6e;
+}
+
+.mgs-product-tab .mgs-tab.data.items > .item.content {
+ margin-top: 60px !important;
+}
+
+.mgs-testimonial .testimonial-content {
+ padding-left: 15px;
+ padding-right: 15px;
+}
+}
+
+@media (max-width: 570px) {
+ .service-boxed .icon-service {
+  width: 100%;
+ }
+
+.latest-post-grid-block .post-item .thumbnail-post img {
+ max-height: 230px;
+}
+}
